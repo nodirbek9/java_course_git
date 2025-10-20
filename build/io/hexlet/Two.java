@@ -1,4 +1,4 @@
-package java_course.hexlet;
+package io.hexlet;
 
 public class Two {
     public static void greeting() {
